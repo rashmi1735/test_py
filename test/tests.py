@@ -1,7 +1,7 @@
 import unittest
 import sys
 sys.path.append('../')
-from src.code import sum,sum_only_positive
+from code import sum,sum_only_positive
 
 class TestSum(unittest.TestCase):
 
